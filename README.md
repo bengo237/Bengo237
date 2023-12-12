@@ -6,7 +6,7 @@ years of experience In Offensive security, monitoring and Incident response.
 <!--
 **Bengo-dev/Bengo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on some innovative projets at [Adorsys](adorsys.com)
 - 🌱 I’m currently learning about Governance, Risk, and Compliance, ISMS
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
