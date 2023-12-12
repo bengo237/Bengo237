@@ -8,7 +8,8 @@ years of experience In Offensive security, monitoring and Incident response.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on some innovative projets at [Adorsys](adorsys.com)
+- 🔭 I’m currently working on some innovative projets at <a href="Adorsys.com">Adorsys<a>
+
 - 🌱 I’m currently learning about Governance, Risk, and Compliance, ISMS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
