@@ -1,6 +1,6 @@
 ### Hi there I'm Chanel Dylane Bengono👋
 
-I'm a Cybersecurity and Digital forensic Engineer,Freelance Motion Graphic Designer, and Security Engineer at Adorsys. with 
+I'm a Cybersecurity and Digital forensic Engineer,Motion Graphic Designer, and Security Engineer at Adorsys. with 
 years of experience In Offensive security, monitoring and Incident response.
 
 <!--
