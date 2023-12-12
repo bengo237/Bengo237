@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there I'm Chanel Dylane Bengono👋
+I'm a Cybersecurity and Digital forensic Engineer,Freelance Motion Graphic Designer, and Fullstack Software Engineer at Adorsys. with 
+years of experience In Offensive security, monitoring and Incident response.
 
 <!--
 **Bengo-dev/Bengo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on some innovative projets at [Adorsys](adorsys.com)
+- 🌱 I’m currently learning about Governance, Risk, and Compliance, ISMS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
