@@ -1,7 +1,7 @@
 ### Hi there I'm Chanel Dylane Bengono👋
 
 I'm a Cybersecurity and Digital forensic Engineer,Motion Graphic Designer, and Security Engineer at Adorsys. with 
-years of experience In Offensive security, monitoring and Incident response.
+years of experience in Offensive security, monitoring and Incident response.
 
 <!--
 **Bengo-dev/Bengo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
