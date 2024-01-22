@@ -5,9 +5,9 @@
 
 <p>
 <div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
+  <img src="https://img.shields.io/twitter/follow/chaneldylaneben?style=social">
   <img src="https://img.shields.io/github/followers/torrinworx?style=social">
-  <a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank">
+  <a href="https://youtube.com/@chaneldylanebengono9764?si=v4VaRD222-x5u3Pa" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	
   </a>
 </div>
