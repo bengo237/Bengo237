@@ -3,15 +3,18 @@
 </p>
 
 
-<p>
-<div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/chaneldylaneben?style=social" alt="Twitter Badge">
-<img src="https://img.shields.io/github/followers/Bengo237?style=social" alt="GitHub Badge">
-  <a href="https://youtube.com/@chaneldylanebengono9764?si=v4VaRD222-x5u3Pa" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	
+<p align="center">
+  <a href="https://twitter.com/chaneldylaneben" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/chaneldylaneben?style=social" alt="Twitter Badge">
   </a>
-</div>
+  <a href="https://github.com/Bengo237" target="_blank">
+    <img src="https://img.shields.io/github/followers/Bengo237?style=social" alt="GitHub Badge">
+  </a>
+  <a href="https://youtube.com/@chaneldylanebengono9764?si=v4VaRD222-x5u3Pa" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social" alt="YouTube Badge">
+  </a>
 </p>
+
 
 <p>
 <div align="center">
