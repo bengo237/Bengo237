@@ -7,6 +7,9 @@
   <a href="https://twitter.com/chaneldylaneben" target="_blank">
     <img src="https://img.shields.io/twitter/follow/chaneldylaneben?style=social" alt="Twitter Badge">
   </a>
+   <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
+  </a>
   <a href="https://github.com/Bengo237" target="_blank">
     <img src="https://img.shields.io/github/followers/Bengo237?style=social" alt="GitHub Badge">
   </a>
