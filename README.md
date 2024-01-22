@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
+</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Dylane.;I+love+Cybersecurity.;I+love+Motion-Design.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
