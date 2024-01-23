@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some innovative projets at <a href="https://adorsys.com" rel="nofollow"> Adorsys<a>
 - 🌱 I’m currently learning about Rust Programming language, CI/CD
-- 💬 Ask me about risk analysis,Cybersecurity Guidelines and standards,GovernanceRisk,and Compliance(GRC), ISMS,SIEM, EPP, EDR, XDR 
+- 💬 Ask me about risk analysis,Cybersecurity Guidelines and standards,Governance Risk and Compliance(GRC), ISMS,SIEM, EPP, EDR, XDR 
 - 📫 How to reach me: you can reach me on <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a>
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
