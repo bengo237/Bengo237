@@ -80,24 +80,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ITr isk analysis,Cybersecurity Guidelines and standards,Governance Risk and Compliance(GRC), ISMS,SIEM, EPP, EDR, XDR 
 - 📫 How to reach me: you can reach me on <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a>
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bengo237&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bengo237&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bengo237&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
-<p align="left">
-  <a href="ttps://www.linkedin.com/in/chanel-dylane-b-91b850194/">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=bengo237&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bengo237&theme=radical&hide_border=true">		  
-  </a>
-</p>
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=bengo237&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- [dylane's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bengo237&custom_title=Dylane's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengo237&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
-</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{bengo237}/count.svg"></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
