@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 <br/>
 <p align="left">
   <a href="ttps://www.linkedin.com/in/chanel-dylane-b-91b850194/">
-    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=bengo237&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bengo237&theme=radical&hide_border=true">		  
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=bengo237&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bengo237&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
