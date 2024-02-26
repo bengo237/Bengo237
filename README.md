@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 <br/>
 <p align="left">
   <a href="ttps://www.linkedin.com/in/chanel-dylane-b-91b850194/">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Bengo237&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bengo237&theme=radical&hide_border=true">		  
+    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Bengo237&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bengo237&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bengo237&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bengo237&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
