@@ -10,8 +10,8 @@
    <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/Bengo237" target="_blank">
-    <img src="https://img.shields.io/github/followers/Bengo237?style=social" alt="GitHub Badge">
+  <a href="https://github.com/bengo237" target="_blank">
+    <img src="https://img.shields.io/github/followers/bengo237?style=social" alt="GitHub Badge">
   </a>
   <a href="https://youtube.com/@chaneldylanebengono9764?si=v4VaRD222-x5u3Pa" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social" alt="YouTube Badge">
@@ -66,7 +66,7 @@ I'm a Cybersecurity and Digital forensic Engineer, Motion Graphic Designer, and 
 years of experience in Offensive security, monitoring and Incident response.
 
 <!--
-**Bengo-dev/Bengo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bengo-dev/bengo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
 - 👯 I’m looking to collaborate on ...
@@ -85,19 +85,19 @@ Here are some ideas to get you started:
 <br/>
 <p align="left">
   <a href="ttps://www.linkedin.com/in/chanel-dylane-b-91b850194/">
-    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Bengo237&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bengo237&theme=radical&hide_border=true">		  
+    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=bengo237&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bengo237&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
 
-<!-- [dylane's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bengo237&custom_title=Dylane's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+<!-- [dylane's Activity Graph](https://activity-graph.herokuapp.com/graph?username=bengo237&custom_title=Dylane's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bengo237&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengo237&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Bengo237}/count.svg"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{bengo237}/count.svg"></p>
 
