@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Dylane.;I+love+Cybersecurity.;I+love+Motion-Design.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 
-# 💫 About Me:
+# 💡 About Me:
 - 🔭 I’m currently working on some innovative projets at <a href="https://adorsys.com" rel="nofollow"> Adorsys<a><br>- 🌱 I’m currently learning about Rust Programming language, CI/CD<br>- 💬 Ask me about IT risk analysis,Cybersecurity Guidelines and standards,Governance Risk and Compliance(GRC), ISMS,SIEM, EPP, EDR, XDR <br>- 📫 How to reach me: you can reach me on <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a>
 
 
