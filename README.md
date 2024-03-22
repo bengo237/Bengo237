@@ -3,7 +3,7 @@
 </p>
 
 # 💡 About Me:
-- 🔭 I’m currently working on some innovative projets at <a href="https://adorsys.com" rel="nofollow"> Adorsys<a><br>- 🌱 I’m currently learning about Rust Programming language, CI/CD<br>- 💬 Ask me about IT risk analysis,Cybersecurity Guidelines and standards,Governance Risk and Compliance(GRC), ISMS,SIEM, EPP, EDR, XDR <br>- 📫 How to reach me: you can reach me on <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a>
+- 🔭 I’m currently working on some innovative projets at <a href="https://adorsys.com" rel="nofollow"> Adorsys<a><br>- 🌱 I’m currently learning about Rust Programming language, CI/CD<br>- 💬 Ask me about : API Security ISMS, SOC, SIEM, EDR, XDR, EPP, NAC, IPS / IDS, CI/CD, Monitoring( Nagios, Xabbix, Pfsense, Packetfence..), EBIOS, MEHARI,AWS,AZURE,CGP... <br>- 📫 How to reach me: you can reach me on <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a>
 
 
 ## 🌐 Socials:
