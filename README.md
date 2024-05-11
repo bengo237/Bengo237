@@ -3,7 +3,13 @@
 </p>
 
 # 💡 About Me:
-- 🔭 I’m currently working on some innovative projets at <a href="https://adorsys.com" rel="nofollow"> Adorsys<a><br>- 🌱 I’m currently learning about Rust Programming language, CI/CD<br>- 💬 Ask me about : API Security, ISMS, SOC, SIEM, EDR, XDR, EPP, NAC, IPS / IDS, CI/CD, Monitoring( Nagios, Xabbix, Pfsense, Packetfence..), EBIOS, MEHARI,AWS,AZURE,CGP... <br>- 📫 How to reach me: you can reach me on <a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a>
+- 🔭 Currently, I'm leveraging my expertise in forensics, cybersecurity, penetration testing, regulatory compliance, incident security management, web hosting, self-hosting, and programming languages like Python, Java, and C++ to spearhead innovative projects at Adorsys.
+
+🌱 Additionally, I'm expanding my knowledge base by delving into Rust programming language and exploring Continuous Integration/Continuous Deployment (CI/CD) methodologies.
+
+💬 Feel free to engage me on topics such as API security, Information Security Management Systems (ISMS), Security Operations Center (SOC), Security Information and Event Management (SIEM), Endpoint Detection and Response (EDR), Extended Detection and Response (XDR), Endpoint Protection Platform (EPP), Network Access Control (NAC), Intrusion Prevention Systems (IPS) / Intrusion Detection Systems (IDS), CI/CD practices, Monitoring using tools like Nagios, Zabbix, Pfsense, Packetfence, as well as frameworks like EBIOS and MEHARI. I'm also well-versed in cloud platforms such as AWS, Azure, and CGP.
+
+📫 You can connect with me on LinkedIn to discuss further or collaborate on exciting projects!<a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a>
 
 
 ## 🌐 Socials:
