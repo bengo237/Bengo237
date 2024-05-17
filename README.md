@@ -10,7 +10,7 @@
 💬 Feel free to engage me on topics such as API security, Information Security Management Systems (ISMS), Security Operations Center (SOC), Security Information and Event Management (SIEM), Endpoint Detection and Response (EDR), Extended Detection and Response (XDR), Endpoint Protection Platform (EPP), Network Access Control (NAC), Intrusion Prevention Systems (IPS) / Intrusion Detection Systems (IDS), CI/CD practices, Monitoring using tools like Nagios, Zabbix, Pfsense, Packetfence, as well as frameworks like EBIOS and MEHARI. I'm also well-versed in cloud platforms such as AWS, Azure, and CGP.
 
 📫 You can connect with me on LinkedIn to discuss further or collaborate on exciting projects!<a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a> . |
-Checkout my portfolio [Here](https://dylane-mu.vercel.app/)
+### Checkout my portfolio [Here](https://dylane-mu.vercel.app/)
 
 
 
