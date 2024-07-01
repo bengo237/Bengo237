@@ -1,4 +1,3 @@
-### Checkout my portfolio [Here](https://dylane-mu.vercel.app/)
 # 💡 About Me:
 - 🔭 Currently, I'm leveraging my expertise in forensics, cybersecurity, penetration testing, regulatory compliance, incident security management, web hosting, and programming languages like Python, Java, and C++ to spearhead innovative projects at Adorsys.
 
@@ -7,8 +6,7 @@
 💬 Feel free to engage me on topics such as API security, Information Security Management Systems (ISMS), Security Operations Center (SOC), Security Information and Event Management (SIEM), Endpoint Detection and Response (EDR), Extended Detection and Response (XDR), Endpoint Protection Platform (EPP), Network Access Control (NAC), Intrusion Prevention Systems (IPS) / Intrusion Detection Systems (IDS), and CI/CD practices including Terraform, ArgoCD, Tekton, and Helm Chart. Additionally, I am knowledgeable about monitoring using tools like Nagios, Zabbix, Pfsense, and Packetfence, as well as frameworks like EBIOS and MEHARI. I am also well-versed in cloud platforms such as AWS, Azure, and GCP.
 
 📫 You can connect with me on LinkedIn to discuss further or collaborate on exciting projects!<a href="https://www.linkedin.com/in/chanel-dylane-b-91b850194/" rel="nofollow"> Linkedln <a> . |
-
-
+### Checkout my portfolio [Here](https://dylane-mu.vercel.app/)
 
 
 ## 🌐 Socials:
