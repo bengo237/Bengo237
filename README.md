@@ -1,5 +1,5 @@
 # 💡 About Me:
-- 🔭 Currently, I'm leveraging my expertise in forensics, cybersecurity, penetration testing, regulatory compliance, incident security management, web hosting, and programming languages like Python, Java, and C++ to spearhead innovative projects at Adorsys.
+- 🔭 Currently, I'm leveraging my expertise in forensics, cybersecurity, penetration testing, regulatory compliance, incident security management, web hosting, and programming languages like Python, Java, and C++ to spearhead innovative projects at adorsys.
 
 🌱 Additionally, I'm expanding my knowledge base by delving into Rust programming language and exploring Continuous Integration/Continuous Deployment (CI/CD) methodologies.
 
