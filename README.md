@@ -1,18 +1,29 @@
-# Chanel Dylane B.
+# Chanel Dylane Bengono
 
-**CISO · Security Engineer · Open Source Contributor**
+**Information Security Lead | Governance, Risk & Compliance (GRC) | Security Operations (SIEM/SOC) | DevSecOps | Cyber Resilience**
 
 ---
 
 ## About
 
-Currently working as **Chief Information Security Officer (CISO)** at the **Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC)**, where I lead the design and deployment of the PSSI, SOC/SIEM solutions, Business Continuity Plans, intrusion testing, and network supervision across multiple sites.
+Security leader building resilient organizations through governance, threat detection, and secure engineering. Currently **CISO** at the **Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC)**, where I drive the end-to-end security posture: PSSI design, SOC/SIEM deployment, Business Continuity Plans, intrusion testing, and multi-site network supervision.
 
 Previously **Security Engineer** at adorsys GmbH & Co. KG, contributing to SD-JWT library development, automated Snort 3 + Wazuh deployments, and EPP/EDR/XDR/SIEM infrastructure design.
 
-Currently deepening skills in **Rust** and **CI/CD** methodologies (Terraform, ArgoCD, Tekton, Helm).
+Exploring secure systems programming with **Rust** as part of a DevSecOps research focus, alongside CI/CD tooling (Terraform, ArgoCD, Tekton, Helm).
 
 Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
+
+---
+
+## Focus Areas
+
+| | |
+|---|---|
+| **Governance, Risk & Compliance** | PSSI, ISO 27001, NIST CSF, EBIOS RM, risk assessments, audit |
+| **Security Operations (SIEM/SOC)** | Threat detection, incident response, SIEM engineering, SOC design |
+| **DevSecOps** | Shift-left security, pipeline hardening, IaC security, container security |
+| **Cyber Resilience** | BCP/DRP, continuity planning, crisis management, multi-site supervision |
 
 ---
 
@@ -34,6 +45,17 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
 ---
 
 ## Tech Stack
+
+**Governance & Compliance**
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/ISO%2FIEC_27001-0052CC?style=flat-square" alt="ISO/IEC 27001 framework badge" /></td>
+    <td><img src="https://img.shields.io/badge/NIST_CSF-003087?style=flat-square" alt="NIST Cybersecurity Framework badge" /></td>
+    <td><img src="https://img.shields.io/badge/EBIOS_RM-6C3483?style=flat-square" alt="EBIOS Risk Manager methodology badge" /></td>
+    <td><img src="https://img.shields.io/badge/COBIT-FF6B35?style=flat-square" alt="COBIT governance framework badge" /></td>
+  </tr>
+</table>
 
 **Security**
 
@@ -148,5 +170,6 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
 
 ## Connect
 
+[![Portfolio link](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dylane-mu.vercel.app/)
 [![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanel-dylane-b-91b850194)
 [![X profile link](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/chaneldylaneben)
