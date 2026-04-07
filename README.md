@@ -115,7 +115,7 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
 
 <img src="https://streak-stats.demolab.com/?user=bengo237&theme=default&hide_border=true" />
 
-[![committers.top badge](https://user-badge.committers.top/cameroon/bengo237.svg)](https://user-badge.committers.top/cameroon/bengo237)
+![Profile views](https://komarev.com/ghpvc/?username=bengo237&color=green&style=flat-square)
 
 ---
 
