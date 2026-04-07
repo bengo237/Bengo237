@@ -6,7 +6,7 @@
 
 ## About
 
-Security leader building resilient organizations through governance, threat detection, and secure engineering. Currently **CISO** at the **Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC)**, where I drive the end-to-end security posture: PSSI design, SOC/SIEM deployment, Business Continuity Plans, intrusion testing, and multi-site network supervision.
+Security leader building resilient organizations through governance, threat detection, and secure engineering. Currently **CISO** at the **Bourse des Valeurs Mobilières de l'Afrique Centrale (BVMAC)**, where I drive the end-to-end security posture: ISSP design, SOC/SIEM deployment, Business Continuity Plans, penetration testing, and multi-site network monitoring.
 
 Previously **Security Engineer** at adorsys GmbH & Co. KG, contributing to SD-JWT library development, automated Snort 3 + Wazuh deployments, and EPP/EDR/XDR/SIEM infrastructure design.
 
@@ -20,7 +20,7 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
 
 | | |
 |---|---|
-| **Governance, Risk & Compliance** | PSSI, ISO 27001, NIST CSF, EBIOS RM, risk assessments, audit |
+| **Governance, Risk & Compliance** | ISSP, ISO 27001, NIST CSF, EBIOS RM, risk assessments, audit |
 | **Security Operations (SIEM/SOC)** | Threat detection, incident response, SIEM engineering, SOC design |
 | **DevSecOps** | Shift-left security, pipeline hardening, IaC security, container security |
 | **Cyber Resilience** | BCP/DRP, continuity planning, crisis management, multi-site supervision |
@@ -97,7 +97,7 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
   </tr>
 </table>
 
-**Virtualisation & Backup**
+**Virtualization & Backup**
 
 <table>
   <tr>
