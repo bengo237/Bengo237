@@ -42,11 +42,19 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
     <td><img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Wazuh-3C99DC?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Snort_3-CC0000?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Symantec-FDB511?style=flat-square&logo=broadcom&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/FortiAnalyzer-EE3124?style=flat-square&logo=fortinet&logoColor=white" /></td>
+    <td></td>
   </tr>
 </table>
 
@@ -64,6 +72,25 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
     <td><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" /></td>
     <td></td>
+  </tr>
+</table>
+
+**Virtualisation & Backup**
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Veeam_Backup-00B336?style=flat-square&logo=veeam&logoColor=white" /></td>
+  </tr>
+</table>
+
+**Storage**
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/NAS-004B87?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/SAN-6C3483?style=flat-square&logoColor=white" /></td>
   </tr>
 </table>
 
