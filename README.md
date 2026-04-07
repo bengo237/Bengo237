@@ -108,12 +108,12 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=bengo237&theme=default&hide_border=true&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengo237&theme=default&hide_border=true&layout=compact" /></td>
+    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=bengo237&theme=default&hide_border=true&include_all_commits=false&count_private=false&cache_seconds=3600" /></td>
+    <td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bengo237&theme=default&hide_border=true&layout=compact&cache_seconds=3600" /></td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bengo237&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=bengo237&theme=default&hide_border=true" />
 
 [![committers.top badge](https://user-badge.committers.top/cameroon/bengo237.svg)](https://user-badge.committers.top/cameroon/bengo237)
 
