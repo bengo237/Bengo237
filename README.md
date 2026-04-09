@@ -39,6 +39,7 @@ Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
     <td><img src="https://img.shields.io/badge/CCT-EC--Council-111111?style=flat-square" alt="CCT certification badge from EC-Council" /></td>
     <td><img src="https://img.shields.io/badge/CSCU-EC--Council-111111?style=flat-square" alt="CSCU certification badge from EC-Council" /></td>
     <td><img src="https://img.shields.io/badge/CPTA_v2-EC--Council-111111?style=flat-square" alt="CPTA v2 certification badge from EC-Council" /></td>
+    <td><img src="https://img.shields.io/badge/CASA-APISec_University-FF6B35?style=flat-square" alt="CASA Certified API Security Analyst certification badge from APISec University" /></td>
   </tr>
 </table>
 
