@@ -12,7 +12,7 @@ Previously **Security Engineer** at adorsys GmbH & Co. KG, contributing to SD-JW
 
 Exploring secure systems programming with **Rust** as part of a DevSecOps research focus, alongside CI/CD tooling (Terraform, ArgoCD, Tekton, Helm).
 
-Portfolio: [dylane-mu.vercel.app](https://dylane-mu.vercel.app/)
+Portfolio: [bengo.tech](https://bengo.tech/)
 
 ---
 
