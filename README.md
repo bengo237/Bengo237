@@ -2,7 +2,7 @@
 
 Chief Information Security Officer — Governance, Risk & Compliance · Security Operations · DevSecOps
 
-[bengo.tech](https://bengo.tech/) · [LinkedIn](https://www.linkedin.com/in/chanel-dylane-b-91b850194)
+[bengo.tech](https://bengo.tech/) · [LinkedIn](https://www.linkedin.com/in/chanel-dylane-bengono)
 
 ---
 
